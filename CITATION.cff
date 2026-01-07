@@ -1,0 +1,24 @@
+cff-version: "1.2.0"
+message: "If you use this repository in your any kind of work, you can cite it using the following metadata."
+title: "Student Profiler - Demo"
+version: "1.0.0"
+date-released: "2026-01-08"
+url: "https://github.com/dileepadev/studentprofiler-demo"
+authors:
+  - name: "Dileepa Bandara"
+    affiliation: "GitHub: dileepadev"
+keywords:
+  - dileepadev
+  - Student Profiling
+  - VARK Learning Model
+  - AI in Education
+  - Machine Learning
+  - Student Behavior Analysis
+  - Learning Styles
+  - Educational Technology
+  - SBVARKS
+  - Student Behavior and VARK System
+license: "MIT"
+abstract: |
+  This repository contains a demo version of the Student Profiler system, which analyzes student behavior and learning patterns using the VARK learning model. It is intended for developers, researchers, and educators interested in understanding student learning styles through AI/ML techniques.
+repository-code: "https://github.com/dileepadev/studentprofiler-demo"

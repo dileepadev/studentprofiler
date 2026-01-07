@@ -1,18 +1,18 @@
-# Contributing to studentprofiler
+# Contributing to studentprofiler-demo
 
-Thank you for your interest in contributing to [studentprofiler](https://github.com/dileepadev/studentprofiler)! We welcome contributions, including bug fixes, feature enhancements, documentation improvements, and other general improvements.
+Thank you for your interest in contributing to [studentprofiler-demo](https://github.com/dileepadev/studentprofiler-demo)! We welcome contributions, including bug fixes, feature enhancements, documentation improvements, and other general improvements.
 
 ## Getting Started
 
 1. **Fork the repository**  
    Fork this repository to your GitHub account. This creates a copy of the repository in your account, allowing you to make changes without affecting the original repository.  
-   To fork the repository, click the **Fork** button in the top right corner of this page or click [here to fork the repository](https://github.com/dileepadev/studentprofiler/fork).
+   To fork the repository, click the **Fork** button in the top right corner of this page or click [here to fork the repository](https://github.com/dileepadev/studentprofiler-demo/fork).
 
 2. **Clone your fork**  
    Clone your forked repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/dileepadev/studentprofiler.git
+   git clone https://github.com/dileepadev/studentprofiler-demo.git
    ```
 
 3. **Create a new branch**  
@@ -51,25 +51,25 @@ Thank you for your interest in contributing to [studentprofiler](https://github.
 - Ensure all tests pass before submitting your changes.
 - Keep your pull request focused and avoid unrelated changes.
 - Refer to the following templates and guidelines before submitting your changes:
-  - [studentprofiler/](https://github.com/dileepadev/studentprofiler/) - Root directory of the repository.
-    - [.github/](https://github.com/dileepadev/studentprofiler/tree/main/.github) - GitHub-specific files (workflows, templates, etc.).
-      - [ISSUE_TEMPLATE/](https://github.com/dileepadev/studentprofiler/tree/main/.github/ISSUE_TEMPLATE) - Contains all issue templates.
-        - [bug_report.md](https://github.com/dileepadev/studentprofiler/blob/main/.github/ISSUE_TEMPLATE/bug_report.md) - Template for reporting bugs.
-        - [documentation_update.md](https://github.com/dileepadev/studentprofiler/blob/main/.github/ISSUE_TEMPLATE/documentation_update.md) - Template for documentation updates.
-        - [feature_request.md](https://github.com/dileepadev/studentprofiler/blob/main/.github/ISSUE_TEMPLATE/feature_request.md) - Template for suggesting new features.
-        - [feedback.md](https://github.com/dileepadev/studentprofiler/blob/main/.github/ISSUE_TEMPLATE/feedback.md) - Template for general feedback.
-        - [other.md](https://github.com/dileepadev/studentprofiler/blob/main/.github/ISSUE_TEMPLATE/other.md) - Template for other types of issues.
-      - [PULL_REQUEST_TEMPLATE.md](https://github.com/dileepadev/studentprofiler/blob/main/.github/PULL_REQUEST_TEMPLATE.md) - Template for pull request submissions.
-    - [BRANCH_NAMING_GUIDELINES.md](https://github.com/dileepadev/studentprofiler/blob/main/BRANCH_NAMING_GUIDELINES.md) - Branch naming rules.
-    - [CHANGELOG.md](https://github.com/dileepadev/studentprofiler/blob/main/CHANGELOG.md) - Record of project changes.
-    - [CODE_OF_CONDUCT.md](https://github.com/dileepadev/studentprofiler/blob/main/CODE_OF_CONDUCT.md) - Contributor behavior guidelines.
-    - [COMMIT_MESSAGE_GUIDELINES.md](https://github.com/dileepadev/studentprofiler/blob/main/COMMIT_MESSAGE_GUIDELINES.md) - Rules for writing commit messages.
-    - [CONTRIBUTING.md](https://github.com/dileepadev/studentprofiler/blob/main/CONTRIBUTING.md) - How to contribute to the project.
-    - [LICENSE](https://github.com/dileepadev/studentprofiler/blob/main/LICENSE) - Project license.
-    - [PULL_REQUEST_GUIDELINES.md](https://github.com/dileepadev/studentprofiler/blob/main/PULL_REQUEST_GUIDELINES.md) - Guidelines for pull request submissions.
-    - [README.md](https://github.com/dileepadev/studentprofiler/blob/main/README.md) - Project overview.
-    - [SECURITY.md](https://github.com/dileepadev/studentprofiler/blob/main/SECURITY.md) - Security policy and reporting.
-    - [VERSIONING.md](https://github.com/dileepadev/studentprofiler/blob/main/VERSIONING.md) - Versioning strategy for the project.
+  - [studentprofiler-demo/](https://github.com/dileepadev/studentprofiler-demo/) - Root directory of the repository.
+    - [.github/](https://github.com/dileepadev/studentprofiler-demo/tree/main/.github) - GitHub-specific files (workflows, templates, etc.).
+      - [ISSUE_TEMPLATE/](https://github.com/dileepadev/studentprofiler-demo/tree/main/.github/ISSUE_TEMPLATE) - Contains all issue templates.
+        - [bug_report.md](https://github.com/dileepadev/studentprofiler-demo/blob/main/.github/ISSUE_TEMPLATE/bug_report.md) - Template for reporting bugs.
+        - [documentation_update.md](https://github.com/dileepadev/studentprofiler-demo/blob/main/.github/ISSUE_TEMPLATE/documentation_update.md) - Template for documentation updates.
+        - [feature_request.md](https://github.com/dileepadev/studentprofiler-demo/blob/main/.github/ISSUE_TEMPLATE/feature_request.md) - Template for suggesting new features.
+        - [feedback.md](https://github.com/dileepadev/studentprofiler-demo/blob/main/.github/ISSUE_TEMPLATE/feedback.md) - Template for general feedback.
+        - [other.md](https://github.com/dileepadev/studentprofiler-demo/blob/main/.github/ISSUE_TEMPLATE/other.md) - Template for other types of issues.
+      - [PULL_REQUEST_TEMPLATE.md](https://github.com/dileepadev/studentprofiler-demo/blob/main/.github/PULL_REQUEST_TEMPLATE.md) - Template for pull request submissions.
+    - [BRANCH_NAMING_GUIDELINES.md](https://github.com/dileepadev/studentprofiler-demo/blob/main/BRANCH_NAMING_GUIDELINES.md) - Branch naming rules.
+    - [CHANGELOG.md](https://github.com/dileepadev/studentprofiler-demo/blob/main/CHANGELOG.md) - Record of project changes.
+    - [CODE_OF_CONDUCT.md](https://github.com/dileepadev/studentprofiler-demo/blob/main/CODE_OF_CONDUCT.md) - Contributor behavior guidelines.
+    - [COMMIT_MESSAGE_GUIDELINES.md](https://github.com/dileepadev/studentprofiler-demo/blob/main/COMMIT_MESSAGE_GUIDELINES.md) - Rules for writing commit messages.
+    - [CONTRIBUTING.md](https://github.com/dileepadev/studentprofiler-demo/blob/main/CONTRIBUTING.md) - How to contribute to the project.
+    - [LICENSE](https://github.com/dileepadev/studentprofiler-demo/blob/main/LICENSE) - Project license.
+    - [PULL_REQUEST_GUIDELINES.md](https://github.com/dileepadev/studentprofiler-demo/blob/main/PULL_REQUEST_GUIDELINES.md) - Guidelines for pull request submissions.
+    - [README.md](https://github.com/dileepadev/studentprofiler-demo/blob/main/README.md) - Project overview.
+    - [SECURITY.md](https://github.com/dileepadev/studentprofiler-demo/blob/main/SECURITY.md) - Security policy and reporting.
+    - [VERSIONING.md](https://github.com/dileepadev/studentprofiler-demo/blob/main/VERSIONING.md) - Versioning strategy for the project.
 
 ## Code of Conduct
 

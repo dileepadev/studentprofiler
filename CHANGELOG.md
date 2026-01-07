@@ -20,4 +20,4 @@ Changes are organized into the following categories:
 <!-- v1.0.0 -->
 <!-- v0.0.1 -->
 
-[Unreleased]: https://github.com/dileepadev/studentprofiler/branches
+[Unreleased]: https://github.com/dileepadev/studentprofiler-demo/branches
